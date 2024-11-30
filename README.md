@@ -1,3 +1,5 @@
+origin: https://github.com/dotnetinstaller/dotnetinstaller
+
 dotNetInstaller Setup Bootstrapper
 ==================================
 
